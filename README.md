@@ -1,2 +1,2 @@
-# SimpleJavaSocketServer
+# Simple Java Socket Server
 SimpleJavaSocketServer
