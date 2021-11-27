@@ -1,4 +1,4 @@
 # Simple Java Socket Server
-SimpleJavaSocketServer
+A Simple Java Socket Server
 
 <img src="https://github.com/kyleprr/SimpleJavaSocketServer/raw/main/SimpleJavaSocketServer/ServerCode.png" width="850">
